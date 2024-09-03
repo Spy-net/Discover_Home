@@ -274,8 +274,8 @@ button {
 
 .mid-image {
     position: fixed;
-    margin-top: -5%;
-    margin-left: 44%;
+    margin-top: 2%;
+    margin-left: 835px;
     width: 15%;
     opacity: .6;
     animation: rotateRight 10s linear infinite;
